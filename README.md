@@ -1,6 +1,6 @@
 # Server-NodeJS
 
-This is a simple source code written for a server using NodeJS.
+This is a simple source code written for a server using NodeJS. (Runs in a localhost)
 
 # Before Run
 Type this command in your IDE terminal to run and build all the required packages: npm install
