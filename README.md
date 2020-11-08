@@ -1,6 +1,6 @@
-# Server-NodeJS
+# Railway Ticketing System
 
-This is a simple source code written for a server using NodeJS. (Runs in AWS elastic beanstalk fine) 
+This is a my 3rd year project code backup. Will be updated when I'm working on it. 
 
 
 # Before Run(If you run in a local machine)
