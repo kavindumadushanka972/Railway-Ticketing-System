@@ -39,19 +39,20 @@
 	<div class="padding">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6 card bg-primary mb-1">
+				<div class="card bg-primary mb-1" style="max-width: 18rem;">
 					<!-- <img src="assets/img/bootstrap.png" alt="" class="img-fluid"> --> <!-- in bootstrap3 class="img-responsive" -->
                     <div class="card-header">
-                        <h3>Check Train Schedules</h3>
+                        <h5>Check Train Schedules</h5>
                     </div><!-- class="card-header" -->
                     <div class="card-body">
-                        
-                        <input type="search" name="source" id="source" placeholder="Source" required><br><br><br>
+
+                        <input type="search" name="source" id="source" placeholder="Source" required><br><br>
                         <input type="search" name="destination" id="destination" placeholder="Destination" required><br><br>
+                        <input type="date" name="date" id="date">
                         
                     </div><!-- class="card-body" -->
                     <div class="card-footer">
-                        <p>2 mins ago</p>
+                        <button type="button" class="btn btn-danger">Check</button>
                     </div><!-- class="card-footer" -->
                 </div>
 				<div class="col-sm-6 text-center">
