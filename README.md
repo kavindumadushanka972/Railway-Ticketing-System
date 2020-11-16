@@ -7,7 +7,7 @@ This is a my 3rd year project code backup. Will be updated when I'm working on i
 Type this command in your IDE terminal to run and build all the required packages: npm install
 
 # To Run: 
-npm install -g nodemon
-npx nodemon server.js
+###### npm install -g nodemon
+###### npx nodemon server.js
 
 
